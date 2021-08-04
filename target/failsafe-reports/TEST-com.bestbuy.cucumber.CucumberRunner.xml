@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bestbuy.cucumber.CucumberRunner" time="8.337" tests="55" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="idea.version" value="2020.3.3"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\bin"/>
+    <property name="java.vm.version" value="25.121-b13"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\test\bestbuy-cucumber-serenity"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="GB"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\test\bestbuy-cucumber-serenity"/>
+    <property name="java.runtime.version" value="1.8.0_121-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\test\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.3\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.3\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Dell\DW WLAN Card;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\Dell\Dell Data Protection\Access\Advanced\Wave\Gemalto\Access Client\v5\;C:\Program Files (x86)\NTRU Cryptosystems\NTRU TCG Software Stack\bin\;C:\Program Files\NTRU Cryptosystems\NTRU TCG Software Stack\bin\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Skype\Phone\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Apache\apache-maven-3.6.1\bin;C:\Program Files\Apache\apache-maven-3.6.1\bin;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Users\test\AppData\Roaming\npm;."/>
+    <property name="maven.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.3\plugins\maven\lib\maven3/conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\test"/>
+    <property name="user.timezone" value="Europe/London"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="test"/>
+    <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.3\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.3\plugins\maven\lib\maven3\boot\plexus-classworlds.license;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.3\lib\idea_rt.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_121\jre"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2020.3.3 clean verify serenity:aggregate"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_121"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_121\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.3\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="When User sends a GET request to categories endpoint, they must get back a valid status code 200" classname="Scenario: Verify if the best buy categories application can be accessed by users" time="0.001"/>
+  <testcase name="Scenario: Verify if the best buy categories application can be accessed by users" classname="Scenario: Verify if the best buy categories application can be accessed by users" time="3.87"/>
+  <testcase name="When I create new categories by providing the information name and id" classname="Scenario: Create a new categories and verify if categories is added" time="0"/>
+  <testcase name="Then I verify the categories is created" classname="Scenario: Create a new categories and verify if categories is added" time="0"/>
+  <testcase name="Scenario: Create a new categories and verify if categories is added" classname="Scenario: Create a new categories and verify if categories is added" time="0.126"/>
+  <testcase name="When I send GET request to categories endpoint with Id &quot;id&quot; , I should received the categories information" classname="Scenario: Getting categories information by Id" time="0"/>
+  <testcase name="Scenario: Getting categories information by Id" classname="Scenario: Getting categories information by Id" time="0.136"/>
+  <testcase name="When I update a created categories providing the new name" classname="Scenario: Update the created categories record and verify if the categories is updated" time="0"/>
+  <testcase name="Then I verify the categories is updated" classname="Scenario: Update the created categories record and verify if the categories is updated" time="0"/>
+  <testcase name="Scenario: Update the created categories record and verify if the categories is updated" classname="Scenario: Update the created categories record and verify if the categories is updated" time="0.16"/>
+  <testcase name="When I delete a created categories , they must get back a valid status code is 200" classname="Scenario: Delete a created categories and verify the categories is deleted" time="0"/>
+  <testcase name="Then I verify the categories is deleted" classname="Scenario: Delete a created categories and verify the categories is deleted" time="0"/>
+  <testcase name="Scenario: Delete a created categories and verify the categories is deleted" classname="Scenario: Delete a created categories and verify the categories is deleted" time="0.149"/>
+  <testcase name="When User sends a GET request to products endpoint, they must get back a valid status code 200" classname="Scenario: check if the best buy product application can be accessed by user" time="0"/>
+  <testcase name="Scenario: check if the best buy product application can be accessed by user" classname="Scenario: check if the best buy product application can be accessed by user" time="0.058"/>
+  <testcase name="When I create a new product by providing the information name type upc price&quot;78.23&quot; description&quot;This is a placeholder request for creating a new product&quot;model" classname="| 78.23 | This is a placeholder request for creating a new product |" time="0"/>
+  <testcase name="Then I verify the product is created" classname="| 78.23 | This is a placeholder request for creating a new product |" time="0"/>
+  <testcase name="| 78.23 | This is a placeholder request for creating a new product |" classname="| 78.23 | This is a placeholder request for creating a new product |" time="0.002"/>
+  <testcase name="When I create a new product by providing the information name type upc price&quot;70.23&quot; description&quot;latest high-tech mobile phone&quot;model" classname="| 70.23 | latest high-tech mobile phone |" time="0"/>
+  <testcase name="Then I verify the product is created" classname="| 70.23 | latest high-tech mobile phone |" time="0"/>
+  <testcase name="| 70.23 | latest high-tech mobile phone |" classname="| 70.23 | latest high-tech mobile phone |" time="0.319"/>
+  <testcase name="When I send GET request to product endpoint with Id &quot;Id&quot; , I should received the product information" classname="Scenario: Getting product information by Id" time="0"/>
+  <testcase name="Scenario: Getting product information by Id" classname="Scenario: Getting product information by Id" time="0.456"/>
+  <testcase name="When I update a created product providing the new name upc price and description" classname="Scenario: Update a created product &amp; verify if the product is updated" time="0"/>
+  <testcase name="Then I verify the product is updated" classname="Scenario: Update a created product &amp; verify if the product is updated" time="0"/>
+  <testcase name="Scenario: Update a created product &amp; verify if the product is updated" classname="Scenario: Update a created product &amp; verify if the product is updated" time="0.343"/>
+  <testcase name="When I delete a created product ,they must get back a valid status code is 200" classname="Scenario: Delete a created product &amp; verify the product is deleted" time="0"/>
+  <testcase name="Then I verify the product is deleted" classname="Scenario: Delete a created product &amp; verify the product is deleted" time="0"/>
+  <testcase name="Scenario: Delete a created product &amp; verify the product is deleted" classname="Scenario: Delete a created product &amp; verify the product is deleted" time="0.315"/>
+  <testcase name="When Users sends a GET request to the services endpoint, they must get back a valid status code 200" classname="Scenario: Verify if the best buy services application can be accessed by users" time="0"/>
+  <testcase name="Scenario: Verify if the best buy services application can be accessed by users" classname="Scenario: Verify if the best buy services application can be accessed by users" time="0.305"/>
+  <testcase name="When I create a new services by providing the information name" classname="Scenario: Create a new services and verify if the service is added" time="0"/>
+  <testcase name="Then I verify the services is created" classname="Scenario: Create a new services and verify if the service is added" time="0"/>
+  <testcase name="Scenario: Create a new services and verify if the service is added" classname="Scenario: Create a new services and verify if the service is added" time="0.165"/>
+  <testcase name="When I send GET request to services endpoint Id &quot;Id&quot;,I should received the services information" classname="Scenario: Getting services information by Id" time="0"/>
+  <testcase name="Scenario: Getting services information by Id" classname="Scenario: Getting services information by Id" time="0.181"/>
+  <testcase name="When I update a created services providing the new name" classname="Scenario: Update a created services and verify if the service is updated" time="0"/>
+  <testcase name="Then I verify the services is updated" classname="Scenario: Update a created services and verify if the service is updated" time="0"/>
+  <testcase name="Scenario: Update a created services and verify if the service is updated" classname="Scenario: Update a created services and verify if the service is updated" time="0.275"/>
+  <testcase name="When I delete a created services, they must get back a valid status code is 200" classname="Scenario: Delete a created services and verify the services is deleted" time="0"/>
+  <testcase name="Then I verify the services is created is deleted" classname="Scenario: Delete a created services and verify the services is deleted" time="0.001"/>
+  <testcase name="Scenario: Delete a created services and verify the services is deleted" classname="Scenario: Delete a created services and verify the services is deleted" time="0.226"/>
+  <testcase name="When User sends a GET request to the stores endpoint, they must get back a valid status code 200" classname="Scenario: Verify if the best buy stores application can be accessed by users" time="0"/>
+  <testcase name="Scenario: Verify if the best buy stores application can be accessed by users" classname="Scenario: Verify if the best buy stores application can be accessed by users" time="0.004"/>
+  <testcase name="When I create a new stores by providing the information name type address addresstwo city state zip lat &quot;23.124356&quot; lng &quot;-89.332456&quot; hours &quot;Mon: 9-6; Tue: 9-6; Wed: 9-6; Thurs: 9-6; Fri: 9-6; Sat: 9-6; Sun: 9-6&quot;" classname="| 23.124356 | -89.332456 | Mon: 9-6; Tue: 9-6; Wed: 9-6; Thurs: 9-6; Fri: 9-6; Sat: 9-6; Sun: 9-6 |" time="0"/>
+  <testcase name="Then I verify the stores is created" classname="| 23.124356 | -89.332456 | Mon: 9-6; Tue: 9-6; Wed: 9-6; Thurs: 9-6; Fri: 9-6; Sat: 9-6; Sun: 9-6 |" time="0"/>
+  <testcase name="| 23.124356 | -89.332456 | Mon: 9-6; Tue: 9-6; Wed: 9-6; Thurs: 9-6; Fri: 9-6; Sat: 9-6; Sun: 9-6 |" classname="| 23.124356 | -89.332456 | Mon: 9-6; Tue: 9-6; Wed: 9-6; Thurs: 9-6; Fri: 9-6; Sat: 9-6; Sun: 9-6 |" time="0.217"/>
+  <testcase name="When I send GET request to stores endpoint with Id &quot;id&quot;, I should received the store information" classname="Scenario: Getting stores information by Id" time="0"/>
+  <testcase name="Scenario: Getting stores information by Id" classname="Scenario: Getting stores information by Id" time="0.167"/>
+  <testcase name="When I update a created store providing the new name type and hours" classname="Scenario: Update a created store and verify if the store is updated" time="0"/>
+  <testcase name="Then I verify the store is updated" classname="Scenario: Update a created store and verify if the store is updated" time="0"/>
+  <testcase name="Scenario: Update a created store and verify if the store is updated" classname="Scenario: Update a created store and verify if the store is updated" time="0.546"/>
+  <testcase name="When I delete a created store, they must get back a valid status code is 200" classname="Scenario: Delete a created store and verify the store is deleted" time="0"/>
+  <testcase name="Then I verify the store is deleted" classname="Scenario: Delete a created store and verify the store is deleted" time="0"/>
+  <testcase name="Scenario: Delete a created store and verify the store is deleted" classname="Scenario: Delete a created store and verify the store is deleted" time="0.315"/>
+</testsuite>
